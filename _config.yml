@@ -14,7 +14,7 @@ title: "ITMEET 2018"
 email: "kucc@ku.edu.np"
 description: "ITMEET is an annual technological event organized by 
 Kathmandu University Computer Club."
-baseurl: "/itmeet"
+baseurl: "/itmeet/itmeet.github.io"
 url: "https://itmeet.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
