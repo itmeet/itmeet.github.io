@@ -40,7 +40,7 @@ c4pUrl: ""
 c4sponsorsUrl: ""
 
 
-# Navigation
+# Navigationa
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
