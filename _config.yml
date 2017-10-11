@@ -25,7 +25,7 @@ organizerName: "KUCC"
 organizerAlternateName: "Kathmandu University Computer Club"
 organizerDescription: "KUCC for all."
 organizerEmail: "kucc@ku.edu.np"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/itmeetLogo.jpg"
 organizerLink: "http://ku.edu.np/kucc"
 
 # Head
@@ -75,7 +75,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "15000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "1500", specialCharacter: "+", info: "participants", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of techno mania"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from diverse technological field"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
@@ -111,8 +111,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Kathmandu University"
+venueFeatures: ["Serene Place", "Excellant Environment for Education", "Located at a beautiful place"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

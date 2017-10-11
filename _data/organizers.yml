@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Kathmandu University Computer Club", description: "Kathmandu University Computer Club is a departmental club under the Department of Computer Science and Technology.", link: "http://ku.edu.np/kucc", imageUrl: "kucc.png"}
 - 
   group: "Co-organizers"
   elements: 
