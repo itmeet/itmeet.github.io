@@ -61,8 +61,8 @@ eventDate: "January 5th and  6th, 2018"
 typeoutTextValues: '"", "Discover", "Develop", "Deploy"'
 typeoutFallback: "Discover"
 heroButtons:
- - {link: "ku.edu.np", text: "Visit KU Site"}
- - {link: "itmeet.ku.edu.np", text: "Visit ITMEET 2017 site"}
+ - {link: "http://ku.edu.np", text: "Visit KU Site"}
+ - {link: "http://itmeet.ku.edu.np", text: "Visit ITMEET 2017 site"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
